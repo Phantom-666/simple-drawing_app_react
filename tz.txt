@@ -1,0 +1,2 @@
+Build a simple drawing application where users can sketch and paint on a canvas.
+Include features like different brush sizes and colors.
